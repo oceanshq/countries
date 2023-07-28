@@ -100,7 +100,7 @@ describe ISO3166::Country do
     expect(country.world_region).to eq('AMER')
   end
 
-  context 'with Turkey' do
+  context 'with Turkiye' do
     let(:country) { ISO3166::Country.search('TR') }
 
     it 'should indicate EMEA as the world region' do
