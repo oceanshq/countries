@@ -12,7 +12,7 @@ TR:
   international_prefix: '00'
   ioc: TUR
   gec: TU
-  name: Turkey
+  name: Turkiye
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -26,6 +26,7 @@ TR:
   nationality: Turkish
   postal_code: true
   unofficial_names:
+  - Turkiye
   - Turkey
   - Türkei
   - Turquie
